@@ -1,0 +1,6 @@
+{
+  "name": "AIVORA AI Academy",
+  "description": "Premium online learning platform for Class 10 Artificial Intelligence with curriculum units, CBSE sample papers, student suggestions, progress tracking, and dedicated admin management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
